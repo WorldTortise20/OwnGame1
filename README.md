@@ -1,2 +1,2 @@
 # Maze Runner Game!
-Maze Runner- made by a Tortise Legend
+Maze Runner- made by Tortise Legend
